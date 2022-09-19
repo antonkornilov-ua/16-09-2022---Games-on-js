@@ -1,0 +1,41 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.rules{
+    margin-top: -9%;
+    margin-left: 7%;
+    display: flex;
+    justify-content: space-around;
+}
+.hidden-text{
+    display:none;
+    font-size: small;
+    background-color: #3e4a53;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+#rock, #paper, #scissors{
+    width: 100px;
+    line-height: 65px;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    flex-direction: row;
+
+}
+
+
+
+/* Game Rules section */
+.inner-text{
+    width: 90%;
+    margin-left: 2%;
+}
