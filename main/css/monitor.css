@@ -88,3 +88,8 @@ h1{
   margin: 0px auto;
   padding-top: 80px;
 }
+.form{
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
