@@ -13,7 +13,6 @@
     background-color: #13202c;
     box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
     text-decoration: none;
-
 }
 .nav-but:active{
     box-shadow: inset -4px 4px 0 #222;

@@ -3,7 +3,6 @@ body{
   padding: 0px;
   background: #1abc9d;
 }
-
 h1{
   color: #fff;
   text-align: center;
@@ -11,7 +10,6 @@ h1{
   font-weight: normal;
   margin: 2em auto 0px;
   text-transform: uppercase;
-
 }
 .outer-screen{
   background: #13202c;
@@ -24,7 +22,6 @@ h1{
   position: relative;
   padding-top: 35px;
 }
-
 .outer-screen:before{
   content: "";
   background: #3e4a53;
@@ -80,7 +77,6 @@ h1{
   bottom: -180px;
   box-shadow: 0px 4px 0px #7e7e7e
 }
-
 .inner-screen{
   width: 800px;
   height: 340px;
